@@ -1,0 +1,27 @@
+[
+    {
+        "id": 2,
+        "state": "incomplete",
+        "title": "Lovelace Scholarship Application Process",
+        "subtitle": "If you are a Thinkr, we want you!",
+        "para": "Opening up the application process in order to find the first recipient of The Lovelace Scholarship. Thinkr will be changing education as we know it. This starts by relieving the financial burden of tuition and living expenses imposed on a scholar we feel encapsulates what it means to be a member of the Thinkr community. ",
+        "quarter": "Q3 2022",
+        "note": ""
+    },
+    {
+        "id": 3,
+        "state": "incomplete",
+        "title": "The Selection Process",
+        "subtitle": "Sifting through the applicants",
+        "para": "Beginning the process of choosing the finalists for the Lovelace Scholarship with the help of the community. We look forward to working with our community on what will be a life changing event for students. ",
+        "note": ""
+    },
+    {
+        "id": 4,
+        "state": "incomplete",
+        "title": "Awarding the Lovelace Scholarship",
+        "subtitle": "Rewarding the first student(s)",
+        "para": "The first recipient of The Lovelace Scholarship will be chosen by the founders. With the help of the Thinkr community has made the first steps toward changing higher education for the better.",
+        "note": ""
+    }
+]
